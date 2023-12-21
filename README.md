@@ -29,11 +29,10 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/oceands"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/oceands" /></a></p><br><br><br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oceands&show_icons=true&locale=en&layout=compact" alt="oceands" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=oceands&show_icons=true&locale=en" alt="oceands" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oceands&" alt="oceands" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oceands&show_icons=true&locale=en&layout=compact" alt="oceands" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oceands&show_icons=true&locale=en" alt="oceands" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oceands&" alt="oceands" width="300" />
 </p>
+
 
 
