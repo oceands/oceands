@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: AdamJeddy
+          user: oceands
           template: classic
           base: header, activity, community
           #, repositories, topics, metadata
