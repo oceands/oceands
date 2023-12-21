@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full-stack lead developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oceands&label=Profile%20views&color=0e75b6&style=flat" alt="oceands" /> </p>
+![download](https://github.com/oceands/oceands/assets/94485584/785eb1cb-8e4e-49a6-8f02-a64a14b8a159)
 
-![02f51c4a09c743de64df5236ee19340e](https://github.com/oceands/oceands/assets/94485584/09bccc9b-8e6e-4d80-892c-8f4c4cf280a5)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oceands" alt="oceands" /></a> </p>
 
