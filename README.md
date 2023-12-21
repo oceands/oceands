@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oceands&label=Profile%20views&color=0e75b6&style=flat" alt="oceands" /> </p>
 
+![02f51c4a09c743de64df5236ee19340e](https://github.com/oceands/oceands/assets/94485584/09bccc9b-8e6e-4d80-892c-8f4c4cf280a5)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oceands" alt="oceands" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps and Project Management**
