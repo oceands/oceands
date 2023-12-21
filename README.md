@@ -5,7 +5,8 @@
 
 
 <img src="https://github.com/oceands/oceands/assets/94485584/cbefc59a-0bc5-4d89-b19a-0754c317fe92"  width="1000" />
-
+<br>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oceands" alt="oceands" /></a> </p>
 
