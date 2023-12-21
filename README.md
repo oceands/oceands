@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack lead developer from India</h3>
 
 
-<img src="https://github.com/oceands/oceands/assets/94485584/cbefc59a-0bc5-4d89-b19a-0754c317fe92"  width="1000" />
+<p align="center"><img src="https://github.com/oceands/oceands/assets/94485584/cbefc59a-0bc5-4d89-b19a-0754c317fe92"  width="1000" /></p>
 <br>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oceands&label=Profile%20views&color=0e75b6&style=flat" alt="oceands" /> </p>
