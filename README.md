@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ocean</h1>
-<h3 align="center">A passionate full-stack lead developer from Dubai</h3>
+<h3 align="center">I like building stuff</h3>
 
 
 <p align="center"><img src="https://github.com/oceands/oceands/assets/94485584/cbefc59a-0bc5-4d89-b19a-0754c317fe92"  width="1000" /></p>
