@@ -2,7 +2,7 @@
 <h3 align="center">I like building stuff</h3>
 
 
-<p align="center">[![pixel-art-landscape-of-pine-forest-in-the-mountains-with-lake-and-clouds-8-bit-game-background-vector](https://github.com/oceands/oceands/assets/94485584/67adce5c-8938-43a5-ac18-8189cfa2cdf1)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F9877820-pixel-art-landscape-of-pine-forest-in-the-mountains-with-lake-and-clouds-8-bit-game-background&psig=AOvVaw2wtbm0EMxt2sxfig5xOncU&ust=1719405977659000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCOzsbk9oYDFQAAAAAdAAAAABAZ)
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F9877820-pixel-art-landscape-of-pine-forest-in-the-mountains-with-lake-and-clouds-8-bit-game-background&psig=AOvVaw2wtbm0EMxt2sxfig5xOncU&ust=1719405977659000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCOzsbk9oYDFQAAAAAdAAAAABAZ"/>
 </p>
 <br>
 <br>
