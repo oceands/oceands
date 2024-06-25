@@ -197,20 +197,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 29.5mb of code in 2269 edited files across 151 commits</small>
+                <small>estimation from 29.6mb of code in 2298 edited files across 182 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="378.70484430097144" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="378.70484430097144" y="0" width="74.18416824081758" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="452.88901254178904" y="0" width="4.649819157633567" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="457.5388316994226" y="0" width="1.3983658267614818" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="458.93719752618404" y="0" width="0.5475460565049844" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="459.484743582689" y="0" width="0.3781643428526045" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="459.8629079255416" y="0" width="0.08164634163721389" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="459.94455426717883" y="0" width="0.05544573282113464" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="378.4513674082114" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="378.4513674082114" y="0" width="74.13451486896177" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="452.58588227717314" y="0" width="4.646706914075794" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="457.23258919124896" y="0" width="1.3974298645469936" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="458.63001905579597" y="0" width="0.5471795698462196" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="459.1771986256421" y="0" width="0.37791122773136576" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="459.5551098533735" y="0" width="0.36329845298568564" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="459.9184083063592" y="0" width="0.08159169364077322" height="8" fill="#162221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -255,11 +255,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ee82ee" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                XSLT
+                                Shell
                             </div>
                             <small>
-                                <div>110 lines</div>
-                                <div>3.67 kB</div>
+                                <div>584 lines</div>
+                                <div>16.3 kB</div>
                             </small>
                         </div>
                     </section>
@@ -305,11 +305,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#162221" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Assembly
+                                XSLT
                             </div>
                             <small>
-                                <div>134 lines</div>
-                                <div>2.50 kB</div>
+                                <div>110 lines</div>
+                                <div>3.67 kB</div>
                             </small>
                         </div>
                     </section>
@@ -317,7 +317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2024, 00:08:14 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2024, 00:07:53 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
