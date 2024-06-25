@@ -10,11 +10,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oceands" alt="oceands" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps and Project Management**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **React, Flask and ML**
 
-- 📫 How to reach me **oceandsouza@yahoo.com**
+- 📫 How to reach me **oceands@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
