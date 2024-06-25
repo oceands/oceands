@@ -2,7 +2,8 @@
 <h3 align="center">I like building stuff</h3>
 
 
-<p align="center"><img src="https://github.com/oceands/oceands/assets/94485584/cbefc59a-0bc5-4d89-b19a-0754c317fe92"  width="1000" /></p>
+<p align="center">![pixel-art-landscape-of-pine-forest-in-the-mountains-with-lake-and-clouds-8-bit-game-background-vector](https://github.com/oceands/oceands/assets/94485584/67adce5c-8938-43a5-ac18-8189cfa2cdf1)
+</p>
 <br>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oceands&label=Profile%20views&color=0e75b6&style=flat" alt="oceands" /> </p>
