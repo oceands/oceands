@@ -11,9 +11,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oceands" alt="oceands" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **React, Flask and ML**
+- 💬 Ask me about **Web Devlopment**
 
 - 📫 How to reach me **oceands@outlook.com**
 
