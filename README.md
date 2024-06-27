@@ -73,8 +73,14 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
-    <a href="[https://tailwindcss.com/](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
-        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" alt="tailwind" width="40" height="40"/>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" alt="aws" width="40" height="40"/>
+    </a>
+    <a href="https://vercel.com" target="_blank" rel="noreferrer">
+        <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="vercel" width="40" height="40"/>
+    </a>
+     <a href="https://heroku.com" target="_blank" rel="noreferrer">
+        <img src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2018/05/heroku-logotype-vertical-purple.png?fit=576%2C684&ssl=1" alt="heroku" width="40" height="40"/>
     </a>
 
 </p>
