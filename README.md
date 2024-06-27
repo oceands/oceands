@@ -38,7 +38,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
     </a>
     <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-logo.svg" alt="supabase" width="40" height="40"/>
+        <img src="https://media.zeemly.com/media/product/supabase.png" alt="supabase" width="40" height="40"/>
     </a>
     <a href="https://posthog.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/posthog/posthog-icon.svg" alt="posthog" width="40" height="40"/>
