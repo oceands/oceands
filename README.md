@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Web Devlopment**
+- 💬 Ask me about **React, Next.js and Node**
 
 - 📫 How to reach me **oceands@outlook.com**
 
