@@ -73,6 +73,9 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
+    <a href="[https://tailwindcss.com/](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
+        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" alt="tailwind" width="40" height="40"/>
+    </a>
 
 </p>
 
